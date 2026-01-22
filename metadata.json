@@ -1,0 +1,8 @@
+{
+  "name": "AdVantage Marketplace",
+  "description": "A high-end, mobile-first advertisements marketplace with professional seller dashboards, subscription models, and seamless PayPal integration.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
